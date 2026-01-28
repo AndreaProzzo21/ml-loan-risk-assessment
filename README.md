@@ -4,7 +4,7 @@ This repository contains a comprehensive Data Science project focused on predict
 
 ## 📊 Data Source
 The dataset used in this project was sourced from **Kaggle**. 
-* **Dataset Name**: Loan Risk Assessment Dataset
+* **Dataset Name**: Financial Risk for Loan Approval
 * **Source**: https://www.kaggle.com/datasets/lorenzozoppelletto/financial-risk-for-loan-approval
 
 Special thanks to the author for providing this data for public use and analysis.
