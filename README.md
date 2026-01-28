@@ -90,7 +90,7 @@ python src/main_pipeline.py
 
 ---
 
-## 📖 Methodology Summary (from Report)
+## 📖 Methodology Summary
 
 The project follows a rigorous pipeline:
 
